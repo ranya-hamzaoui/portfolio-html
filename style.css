@@ -1,0 +1,123 @@
+.portfolio-header{
+     height: 60px;
+  
+}
+.portfolio-header-title{
+    color: #fed136;
+    font-size: 36px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+a {  font-family: 'Shadows Into Light', cursive;
+     font-size: 26px;
+     color:white;
+     font-weight: bold;
+}
+
+a:active{color:#fed136;}
+.lien-active{
+
+    color:#fed136;
+}
+.lien-inactive{
+
+    color: black;
+}
+
+.title{
+    font-family: 'Sniglet', cursive;
+     font-weight: bold;
+     font-size: 28px;
+}
+
+.portfolio-image {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 250px;
+    margin-top: 20px;
+    margin-left:10%;
+    height: 250px;
+}
+
+.paraghraphe{
+    font-size: 18px;
+    max-width: 900px;
+    margin-left:10%;
+    color: black;
+    margin-top: 328px;
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.portfolio-background{
+
+background-image: url(b2.jpg);
+height: 400px;
+color:white;
+}
+
+.skill-title{
+    font-family: 'Shadows Into Light', cursive;
+    color:black; 
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 40px;
+    }
+
+.skill-paragraphe{
+           font-family: 'Slabo 27px', serif;
+           font-size: 18px;
+           margin-top: 20px;
+           margin-bottom: 80px;
+   }
+
+   .box{
+
+    background-color: rgb(231, 229, 229);
+    width: 300px;
+    height: 280px;
+    display: flex;
+    border:1px solid white; 
+    border-radius: 50%;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+ 
+     }
+
+
+     .box-title{font-family: 'Shadows Into Light', cursive;
+     font-size: 36px;
+     text-decoration: underline;
+     color:#fed136;;
+     font-weight: bold;
+     }
+     .none-type{
+
+    list-style-type: none;
+
+     }
+    .contact{
+
+background-image: url("bac.jpg");
+margin-bottom: 30px;
+
+
+    }
+
+    .portfolio-footer{
+        margin-top: 20px;
+     padding-top: 20px;
+     border:1px solid rgb(230, 227, 227);
+
+    }
+
+
+    .btn-social{
+
+    background-color: beige;
+    border-radius: 50%;
+
+    }
