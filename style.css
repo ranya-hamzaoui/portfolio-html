@@ -1,6 +1,5 @@
 .portfolio-header{
-     height: 60px;
-  
+     height: 120px;  
 }
 .portfolio-header-title{
     color: #fed136;
@@ -46,6 +45,15 @@ a:active{color:#fed136;}
     margin-left:10%;
     color: black;
     margin-top: 328px;
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.description{
+    font-size: 18px;
+    max-width: 900px;
+    margin-left:10%;
+    color: black;
     font-family: 'Slabo 27px', serif;
 
 }
@@ -101,7 +109,7 @@ color:white;
      }
     .contact{
 
-background-image: url("bac.jpg");
+background-image: url("images/bac.jpg");
 margin-bottom: 30px;
 
 
